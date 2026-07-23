@@ -158,7 +158,4 @@ Feature Importance explains how the models use input data. It does not prove tha
 ```text
 notebooks/   Final executed Regression notebooks
 src/         Pipeline, utility, loader, and worker modules
-figures/     Final statistical visualizations
-reports/     Model Card and Technical Report
-results/     Final summary tables
 data/        Data description and access instructions
